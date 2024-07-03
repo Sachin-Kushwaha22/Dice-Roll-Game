@@ -1,0 +1,44 @@
+#container{
+    text-align: center;
+
+}
+
+#container h1{
+    font-size: 3em;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+label{
+    font-size: 1.5em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+}
+
+#container input{
+    border: solid 2px black;
+    border-radius: 5px;
+    margin: 10px;
+    text-align: center;
+    font-family: cursive;
+    font-size: 1em;
+    max-width: 100px;
+    font-weight: bolder;
+    color: teal;
+}
+
+button{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    font-size: 1em;
+    padding: 4px;
+    margin-left: 10px;
+    border-radius: 5px;
+    background-color: rgb(71, 223, 223);
+    cursor: pointer;
+}
+
+#imagesdice img{
+    max-width: 150px;
+    margin: 10px;
+}
